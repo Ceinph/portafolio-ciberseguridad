@@ -51,7 +51,7 @@ Se elaboraron recomendaciones para fortalecer la seguridad física, implementar 
 
 ## Documentación
 
-Consultar el reporte completo en `reporte-auditoria.pdf`.
+Consultar el reporte completo en `Auditoria clinica san expedito.pdf`.
 
 ## Aviso
 

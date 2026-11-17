@@ -8,15 +8,15 @@ Mi objetivo es desarrollar habilidades técnicas en tecnologías de la informaci
 
 Sobre mí
 
-🎓 Estudiante de Ciberseguridad – Universidad de Guadalajara.
+Estudiante de Ciberseguridad – Universidad de Guadalajara.
 
-💻 Interés profesional en Soporte TI y seguridad informática.
+Interés profesional en Soporte TI y seguridad informática.
 
-🔐 Interés en auditoría de seguridad, análisis de vulnerabilidades y hacking ético.
+Interés en auditoría de seguridad, análisis de vulnerabilidades y hacking ético.
 
-🌐 Formación complementaria mediante Cisco Networking Academy.
+Formación complementaria mediante Cisco Networking Academy.
 
-📚 Aprendizaje continuo en redes, Linux, Python y ciberseguridad.
+Aprendizaje continuo en redes, Linux, Python y ciberseguridad.
 
 Proyectos
 

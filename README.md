@@ -56,18 +56,6 @@ Evaluación de seguridad sobre Damn Vulnerable Web Application (DVWA), utilizand
 
 **[Consultar proyecto y reporte](./pentesting-dvwa/README.md)**
 
-## Conocimientos técnicos
-
-| Área | Conocimientos y herramientas |
-|---|---|
-| Redes | Fundamentos de redes, Cisco Packet Tracer |
-| Sistemas operativos | Linux |
-| Programación | Python básico |
-| Ciberseguridad | Fundamentos de seguridad y análisis de vulnerabilidades |
-| Pentesting | DVWA, Hydra, SQLmap |
-| Auditoría | ISO/IEC 27001, NIST CSF, CIS Controls v8 |
-| Seguridad | Análisis de riesgos y controles de seguridad |
-
 ## Formación
 
 - Licenciatura en Ciberseguridad – Universidad de Guadalajara.

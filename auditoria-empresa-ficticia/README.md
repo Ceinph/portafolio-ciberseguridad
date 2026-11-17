@@ -50,21 +50,21 @@ Metodología y actividades
 
 Principales hallazgos
 
--  Se documentaron siete hallazgos relacionados con:
+1. Se documentaron siete hallazgos relacionados con:
 
--  Uso del cuarto de servidores como bodega de limpieza.
+2.  Uso del cuarto de servidores como bodega de limpieza.
 
--  Respaldo único conectado al servidor principal.
+3.  Respaldo único conectado al servidor principal.
 
--  Inexistencia de un Análisis de Impacto al Negocio (BIA).
+4. Inexistencia de un Análisis de Impacto al Negocio (BIA).
 
--  Ausencia de un Plan de Recuperación ante Desastres (DRP).
+5. Ausencia de un Plan de Recuperación ante Desastres (DRP).
 
--  Ausencia de documentación formal de controles críticos.
+6.  Ausencia de documentación formal de controles críticos.
 
--  Deficiencias en el control de accesos físicos y lógicos.
+7. Deficiencias en el control de accesos físicos y lógicos.
 
--  Debilidades en privacidad y protección de datos personales.
+8. Debilidades en privacidad y protección de datos personales.
 
 Resultados
 

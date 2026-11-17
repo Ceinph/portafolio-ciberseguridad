@@ -8,7 +8,7 @@ Mi objetivo es desarrollar habilidades técnicas en tecnologías de la informaci
 
 Sobre mí
 
-Estudiante de Ciberseguridad – Universidad de Guadalajara.
+Estudiante de Ciberseguridad 5to semestre– Universidad de Guadalajara.
 
 Interés profesional en Soporte TI y seguridad informática.
 

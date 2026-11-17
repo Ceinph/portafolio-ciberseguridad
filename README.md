@@ -32,7 +32,7 @@ Evaluación de controles de seguridad físicos, lógicos y administrativos de un
 
 **Marcos de referencia:** ISO/IEC 27001, NIST Cybersecurity Framework, CIS Controls v8 y LFPDPPP.
 
-**[Consultar proyecto y reporte](./auditoria-clinica-san-expedito/)**
+**[Consultar proyecto y reporte](auditoria-empresa-ficticia)**
 
 ---
 

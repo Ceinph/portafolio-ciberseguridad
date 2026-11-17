@@ -8,63 +8,63 @@ El objetivo fue evaluar los controles de seguridad físicos, lógicos y administ
 
 Alcance
 
-Seguridad física del cuarto de servidores.
+- Seguridad física del cuarto de servidores.
 
-Gestión de respaldos y recuperación de información.
+- Gestión de respaldos y recuperación de información.
 
-Control de accesos físicos y lógicos.
+- Control de accesos físicos y lógicos.
 
-Documentación de políticas y procedimientos.
+- Documentación de políticas y procedimientos.
 
-Continuidad del negocio y recuperación ante desastres.
+- Continuidad del negocio y recuperación ante desastres.
 
-Privacidad y protección de datos personales.
+- Privacidad y protección de datos personales.
 
 Marcos de referencia
 
-ISO/IEC 27001.
+- ISO/IEC 27001.
 
-NIST Cybersecurity Framework.
+-  NIST Cybersecurity Framework.
 
-CIS Controls v8.
+- CIS Controls v8.
 
-Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
 
-HIPAA como referencia complementaria.
+- HIPAA como referencia complementaria.
 
 Metodología y actividades
 
-Elaboración del inventario de activos críticos.
+- Elaboración del inventario de activos críticos.
 
-Diseño de cuestionarios de control interno.
+-  Diseño de cuestionarios de control interno.
 
-Inspección física y revisión documental.
+-  Inspección física y revisión documental.
 
-Desarrollo de papeles de trabajo.
+-  Desarrollo de papeles de trabajo.
 
-Documentación de hallazgos y evidencia de trazabilidad.
+-  Documentación de hallazgos y evidencia de trazabilidad.
 
-Análisis de riesgos mediante metodología CCCER.
+-  Análisis de riesgos mediante metodología CCCER.
 
-Elaboración de mapa de calor de riesgos 5x5.
+-  Elaboración de mapa de calor de riesgos 5x5.
 
 Principales hallazgos
 
-Se documentaron siete hallazgos relacionados con:
+-  Se documentaron siete hallazgos relacionados con:
 
-Uso del cuarto de servidores como bodega de limpieza.
+-  Uso del cuarto de servidores como bodega de limpieza.
 
-Respaldo único conectado al servidor principal.
+-  Respaldo único conectado al servidor principal.
 
-Inexistencia de un Análisis de Impacto al Negocio (BIA).
+-  Inexistencia de un Análisis de Impacto al Negocio (BIA).
 
-Ausencia de un Plan de Recuperación ante Desastres (DRP).
+-  Ausencia de un Plan de Recuperación ante Desastres (DRP).
 
-Ausencia de documentación formal de controles críticos.
+-  Ausencia de documentación formal de controles críticos.
 
-Deficiencias en el control de accesos físicos y lógicos.
+-  Deficiencias en el control de accesos físicos y lógicos.
 
-Debilidades en privacidad y protección de datos personales.
+-  Debilidades en privacidad y protección de datos personales.
 
 Resultados
 

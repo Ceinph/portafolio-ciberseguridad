@@ -32,7 +32,7 @@ Evaluación de controles de seguridad físicos, lógicos y administrativos de un
 
 **Marcos de referencia:** ISO/IEC 27001, NIST Cybersecurity Framework, CIS Controls v8 y LFPDPPP.
 
-**[Consultar proyecto y reporte](./auditoria-clinica-san-expedito/README.md)**
+**[Consultar proyecto y reporte](./auditoria-clinica-san-expedito/)**
 
 ---
 
@@ -54,7 +54,7 @@ Evaluación de seguridad sobre Damn Vulnerable Web Application (DVWA), utilizand
 
 **Resultados:** 9 vulnerabilidades documentadas en el reporte: 3 críticas, 5 altas y 1 media.
 
-**[Consultar proyecto y reporte](./pentesting-dvwa/README.md)**
+**[Consultar proyecto y reporte](./pentesting-dvwa/)**
 
 ## Formación
 

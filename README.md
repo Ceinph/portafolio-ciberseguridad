@@ -1,6 +1,6 @@
 # Portafolio de Ciberseguridad
 
-¡Hola! Soy **Misael Sánchez Álvarez**, estudiante de la Licenciatura en Ciberseguridad en la Universidad de Guadalajara.
+¡Hola! Soy **Misael Sánchez Álvarez**, estudiante de quinto semestre de la Licenciatura en Ciberseguridad en el Centro Universitario de Guadalajara de la Universidad de Guadalajara.
 
 Este repositorio reúne algunos de mis proyectos académicos y prácticas de laboratorio relacionados con la seguridad informática, auditoría de ciberseguridad y pruebas de penetración.
 
@@ -8,11 +8,11 @@ Mi objetivo es desarrollar habilidades técnicas en tecnologías de la informaci
 
 ## Sobre mí
 
-- 🎓 Estudiante de Ciberseguridad – Universidad de Guadalajara.
-- 💻 Interés profesional en Soporte TI y seguridad informática.
-- 🔐 Interés en auditoría de seguridad, análisis de vulnerabilidades y hacking ético.
-- 🌐 Formación complementaria mediante Cisco Networking Academy.
-- 📚 Aprendizaje continuo en redes, Linux, Python y ciberseguridad.
+- Estudiante de Ciberseguridad – Universidad de Guadalajara.
+- Interés profesional en Soporte TI y seguridad informática.
+- Interés en auditoría de seguridad, análisis de vulnerabilidades y hacking ético.
+- Formación complementaria mediante Cisco Networking Academy.
+- Aprendizaje continuo en redes, Linux, Python y ciberseguridad.
 
 ## Proyectos
 
